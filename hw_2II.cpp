@@ -25,4 +25,5 @@ int main()
 	Bus bus(start, finish, 10, 30);
 	bus.buildgraph();
 
+
 }
